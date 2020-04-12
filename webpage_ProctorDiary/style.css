@@ -33,7 +33,7 @@
 .soln{
 	width:280px;
     position:absolute;
-    top:73%;
+    top:76%;
     left:50%;
     transform: translate(-50%,-50%);
     color:rgb(2, 2, 2);
@@ -95,7 +95,7 @@
 }
 .middle{
     position: absolute;
-    top:78%;
+    top:82%;
     text-align: center;
     transform:translateY (50%);
     width:100%;
