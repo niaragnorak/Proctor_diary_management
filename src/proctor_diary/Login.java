@@ -20,7 +20,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author Arnav Singh
+ * @author Nilansh Thakur
  */
 public class Login extends javax.swing.JFrame {
 

@@ -21,7 +21,7 @@ import javax.swing.Timer;
 import net.proteanit.sql.DbUtils;
 /**
  *
- * @author Arnav Singh
+ * @author Nilansh Thakur
  */
 public class Student_Login extends javax.swing.JFrame {
 

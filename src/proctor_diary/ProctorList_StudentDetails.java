@@ -27,7 +27,7 @@ import java.text.SimpleDateFormat;
 import javax.swing.Timer;
 /**
  *
- * @author Arnav Singh
+ * @author Nilansh Thakur
  */
 public class ProctorList_StudentDetails extends javax.swing.JFrame {
 

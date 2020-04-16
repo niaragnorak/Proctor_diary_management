@@ -23,7 +23,7 @@ import proctor_diary.Login;
 
 /**
  *
- * @author Arnav Singh
+ * @author Nilansh Thakur
  */
 public class Proctor_Page extends javax.swing.JFrame {
 public String pid1;

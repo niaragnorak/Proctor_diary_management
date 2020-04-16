@@ -1283,9 +1283,9 @@ public class UpdateDetails extends javax.swing.JFrame {
     private javax.swing.JTextField exam_name;
     private javax.swing.JTextField fastrack;
     private javax.swing.JTextField fname;
-    private javax.swing.JTextField fnumber;
+    public javax.swing.JTextField fnumber;
     public javax.swing.JTextField gname;
-    private javax.swing.JTextField guardiannumber;
+    public javax.swing.JTextField guardiannumber;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
     private javax.swing.JButton jButton3;
@@ -1339,7 +1339,7 @@ public class UpdateDetails extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane3;
     private javax.swing.JTextArea jTextArea1;
     private javax.swing.JTextField mname;
-    private javax.swing.JTextField mnumber;
+    public javax.swing.JTextField mnumber;
     private javax.swing.JTextField name;
     private javax.swing.JTextField pass;
     private javax.swing.JTextField phone;

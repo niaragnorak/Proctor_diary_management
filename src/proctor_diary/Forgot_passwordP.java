@@ -26,7 +26,7 @@ import javax.mail.internet.MimeMultipart;
 
 /**
  *
- * @author Arnav Singh
+ * @author Nilansh Thakur
  */
 public class Forgot_passwordP extends javax.swing.JFrame {
 

@@ -40,7 +40,7 @@ import java.io.FileOutputStream;
 import java.util.regex.Pattern;
 /**
  *
- * @author Arnav Singh
+ * @author Nilansh Thakur
  */
 public class Proctor_Login extends javax.swing.JFrame {
 
